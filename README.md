@@ -1,3 +1,9 @@
+# Thank you
+
+This tutorial was provided by Stephen Grider on Udemy. https://www.udemy.com/course/react-redux/
+This course has been great to help me get back up to speed on react since it's been a while since I've done any work in it.
+I would recommend this course to any developer at any skill level.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
